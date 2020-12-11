@@ -11,7 +11,6 @@
 	<groupId>com.senthil.spring.boot.rest.api</groupId>
 	<artifactId>spring-boot-rest-api-1.0.0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>spring-boot-rest-api-1.0.0</name>
 	<description>Demo project for Spring Boot</description>
 
